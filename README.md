@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hvanhuynegem
-- 👀 I’m interested in squash, calisthenics and programming
+- 👀 I’m interested in bouldering, calisthenics and programming
 - 🌱 I’m currently studying at Tu Delft
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: send me a message ;)
 
 <!---
