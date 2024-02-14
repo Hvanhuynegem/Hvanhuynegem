@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hvanhuynegem
 - 👀 I’m interested in bouldering, calisthenics and programming
-- 🌱 I’m currently studying at Tu Delft
+- 🌱 I’m currently studying at TU Delft
 - 📫 How to reach me: send me a message ;)
 
 <!---
